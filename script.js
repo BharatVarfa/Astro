@@ -39,7 +39,7 @@ function sendMessage() {
             addMessage('user', message);
             // Simulate astrologer response
             setTimeout(() => {
-                addMessage('astrologer', 'Thank you for your message. An astrologer will respond shortly.');
+                addMessage('astrologer', 'Thank you for your message. Psychiatrist will respond shortly.');
             }, 1000);
             chatInput.value = '';
 

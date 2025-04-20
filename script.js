@@ -73,7 +73,7 @@ function saveToHistory(message) {
 const astrologers = [
     {
         name: "Dr. Bhumi jain",
-        expertise: "Vedic Astrology",
+        expertise: "General Psychiatrist",
         rating: 4.8,
         image: "./img/bhumi.jpg"
     },
